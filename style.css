@@ -1240,10 +1240,6 @@ footer {
   #nomInput {
     width: 270px;
   }
-
-  .navHambButton {
-    display: none;
-  }
 }
 
 @media screen and (min-width: 1200px) {
@@ -1278,9 +1274,5 @@ footer {
 
   #nomInput {
     width: 370px;
-  }
-
-  .navHambButton {
-    display: none;
   }
 }
